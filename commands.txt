@@ -6,3 +6,6 @@ git status
 
 git add -A
 : add to staged area
+
+git commit -m "message"
+: add staged files to local repository
