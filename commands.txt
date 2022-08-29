@@ -1,2 +1,8 @@
 git init
 : initializes git
+
+git status
+: list all untrackedfiles
+
+git add -A
+: add to staged area
